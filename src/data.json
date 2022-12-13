@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "react",
+    "detail": "The way to get started is to quit talking and begin doing"
+  },
+  {
+    "id": 1,
+    "name": "flutter",
+    "detail": "Your time is limited, so don't waste it living someone else's life"
+  },
+  {
+    "id": 2,
+    "name": "react2",
+    "detail": "The way to get started is to quit talking and begin doing"
+  },
+  {
+    "id": 3,
+    "name": "react3",
+    "detail": "The way to get started is to quit talking and begin doing"
+  }
+]
